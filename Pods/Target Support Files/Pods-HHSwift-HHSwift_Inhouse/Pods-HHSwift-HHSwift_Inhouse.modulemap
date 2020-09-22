@@ -1,0 +1,6 @@
+framework module Pods_HHSwift_HHSwift_Inhouse {
+  umbrella header "Pods-HHSwift-HHSwift_Inhouse-umbrella.h"
+
+  export *
+  module * { export * }
+}

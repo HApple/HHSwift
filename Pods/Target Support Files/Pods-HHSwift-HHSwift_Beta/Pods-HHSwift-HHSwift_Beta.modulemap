@@ -1,0 +1,6 @@
+framework module Pods_HHSwift_HHSwift_Beta {
+  umbrella header "Pods-HHSwift-HHSwift_Beta-umbrella.h"
+
+  export *
+  module * { export * }
+}

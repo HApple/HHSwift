@@ -1,0 +1,121 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CryptoSwift (1.3.0)
+  - IQKeyboardManagerSwift (6.5.4)
+  - KeychainAccess (4.1.0)
+  - Kingfisher (5.12.0):
+    - Kingfisher/Core (= 5.12.0)
+  - Kingfisher/Core (5.12.0)
+  - KMPlaceholderTextView (1.4.0)
+  - Localize-Swift (3.1.0)
+  - MJRefresh (3.3.1)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - Realm (4.3.0):
+    - Realm/Headers (= 4.3.0)
+  - Realm/Headers (4.3.0)
+  - RealmSwift (4.3.0):
+    - Realm (= 4.3.0)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwifterSwift (5.1.0):
+    - SwifterSwift/AppKit (= 5.1.0)
+    - SwifterSwift/CoreGraphics (= 5.1.0)
+    - SwifterSwift/CoreLocation (= 5.1.0)
+    - SwifterSwift/Dispatch (= 5.1.0)
+    - SwifterSwift/Foundation (= 5.1.0)
+    - SwifterSwift/MapKit (= 5.1.0)
+    - SwifterSwift/SceneKit (= 5.1.0)
+    - SwifterSwift/SpriteKit (= 5.1.0)
+    - SwifterSwift/SwiftStdlib (= 5.1.0)
+    - SwifterSwift/UIKit (= 5.1.0)
+  - SwifterSwift/AppKit (5.1.0)
+  - SwifterSwift/CoreGraphics (5.1.0)
+  - SwifterSwift/CoreLocation (5.1.0)
+  - SwifterSwift/Dispatch (5.1.0)
+  - SwifterSwift/Foundation (5.1.0)
+  - SwifterSwift/MapKit (5.1.0)
+  - SwifterSwift/SceneKit (5.1.0)
+  - SwifterSwift/SpriteKit (5.1.0)
+  - SwifterSwift/SwiftStdlib (5.1.0)
+  - SwifterSwift/UIKit (5.1.0)
+  - SwiftWebSocket (2.7.0)
+  - SwiftyJSON (5.0.0)
+  - TimedSilver (1.2.0)
+  - XCGLogger (7.0.0):
+    - XCGLogger/Core (= 7.0.0)
+  - XCGLogger/Core (7.0.0):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - CryptoSwift (~> 1.3.0)
+  - IQKeyboardManagerSwift (~> 6.5.4)
+  - KeychainAccess (~> 4.1.0)
+  - Kingfisher (~> 5.12.0)
+  - KMPlaceholderTextView (~> 1.4.0)
+  - Localize-Swift (~> 3.1.0)
+  - MJRefresh (~> 3.3.1)
+  - RealmSwift (~> 4.3.0)
+  - SnapKit (~> 5.0.1)
+  - SVProgressHUD (~> 2.2.5)
+  - SwifterSwift (~> 5.1.0)
+  - SwiftWebSocket (from `https://github.com/tidwall/SwiftWebSocket.git`, tag `v2.8.0`)
+  - SwiftyJSON (~> 5.0.0)
+  - TimedSilver (~> 1.2.0)
+  - XCGLogger (~> 7.0.0)
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Alamofire
+    - CryptoSwift
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+    - Kingfisher
+    - KMPlaceholderTextView
+    - Localize-Swift
+    - MJRefresh
+    - ObjcExceptionBridging
+    - Realm
+    - RealmSwift
+    - SnapKit
+    - SVProgressHUD
+    - SwifterSwift
+    - SwiftyJSON
+    - TimedSilver
+    - XCGLogger
+
+EXTERNAL SOURCES:
+  SwiftWebSocket:
+    :git: https://github.com/tidwall/SwiftWebSocket.git
+    :tag: v2.8.0
+
+CHECKOUT OPTIONS:
+  SwiftWebSocket:
+    :git: https://github.com/tidwall/SwiftWebSocket.git
+    :tag: v2.8.0
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CryptoSwift: 1283821600233bdbeb96d7b389c3288c3bf77211
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  KeychainAccess: 445e28864fe6d3458b41fa211bcdc39890e8bd5a
+  Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
+  KMPlaceholderTextView: 2206c3df39979e9396e2d96fa9f427a8951121b0
+  Localize-Swift: 4bed4f0ccac8be2ec3517ee359da80ba2adb0fae
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  Realm: 9357c3589555793e1860a7104a7412bca4a48d99
+  RealmSwift: 402f1e379a8ef82c635313037b043f0f06de880c
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwifterSwift: a9e8e144832638c2850b43da5feaf9598c6ad65b
+  SwiftWebSocket: 612c9729fd503cb6b0b8b45390c788686dac306f
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TimedSilver: 2ee5f45f783a60e6fa8597db5d1d609e03736467
+  XCGLogger: 0434f15e3909cdc450bb63faf638b8792ab782ab
+
+PODFILE CHECKSUM: c64b7681a7c548875353c15a7a1b9eeada29002d
+
+COCOAPODS: 1.8.4
